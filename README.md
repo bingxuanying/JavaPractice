@@ -1,2 +1,2 @@
 # JavaPractice
-for practice use
+for learning purpose
